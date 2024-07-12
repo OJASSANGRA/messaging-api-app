@@ -14,8 +14,6 @@ public class MessagingApiAppApplication {
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(MessagingApiAppApplication.class, args);
-		
-		System.out.println("HI Oracle");
 		System.out.println("Hello Oracle");
 	}
 
